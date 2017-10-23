@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - Obstacle1
+  - Bars
+  - Pipes
+  - point
+  - Bird
   layers:
   - Default
   - TransparentFX
